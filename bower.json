@@ -1,0 +1,24 @@
+{
+  "name": "socket.bower",
+  "main": "dist/socket.io.js",
+  "version": "1.3.7",
+  "homepage": "https://github.com/plusmancn/socket.bower",
+  "authors": [
+    "plusmancn"
+  ],
+  "description": "socket.bower",
+  "moduleType": [
+    "amd",
+  ],
+  "keywords": [
+    "socket.io"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
